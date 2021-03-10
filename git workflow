@@ -1,0 +1,6 @@
+create git repo: git init
+
+push changes:
+git add .
+git commit -m "message here"
+git push
